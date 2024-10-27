@@ -1,0 +1,32 @@
+<transport>
+    <typesofvehicles>
+        <bus type='bmw' quality='used'></bus>
+        <train type='nissan' quality='used'></train>
+        <plane type='boeing' quality='new'></plane>
+        <taxi type='honda' quality='old'></taxi>
+    </typesofvehicles>
+    <bus>
+        <colour>blue</colour>
+        <price>120£</price>
+        <comfort>lux</comfort>
+        <prestige>top</prestige>
+    </bus>
+    <train>
+        <colour>white</colour>
+        <price>1</price>
+        <comfort>lux</comfort>
+        <prestige>top</prestige>
+    </train>
+    <plane>
+        <colour>green</colour>
+        <price>222</price>
+        <comfort>lux</comfort>
+        <prestige>top</prestige>
+    </plane>
+    <taxi>
+        <colour>purple</colour>
+        <price>2222</price>
+        <comfort>lux</comfort>
+        <prestige>top</prestige>
+    </taxi>
+</transport>
