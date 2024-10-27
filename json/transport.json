@@ -1,0 +1,21 @@
+{
+    "transport":"bus",
+    "price": 2000.50,
+    "speed": "high",
+    "type": "car",
+    
+    "availibility":true,
+    "fuelconsumption":[
+        "5/100",
+        "7/200"
+    ],
+    "tax":20,
+    
+        "usage":false
+    
+    
+
+
+    
+    
+}
